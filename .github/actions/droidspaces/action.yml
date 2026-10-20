@@ -115,7 +115,4 @@ runs:
           CONFIG_CGROUP_PIDS=y
           CONFIG_CFS_BANDWIDTH=y
           CONFIG_DEVTMPFS=y
-          CONFIG_BINFMT_MISC=y
-          CONFIG_BINFMT_SCRIPT=y
-          CONFIG_BINFMT_ELF=y
           CONFIG_OVERLAY_FS=y
